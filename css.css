@@ -1,0 +1,49 @@
+body{
+  background-color:#215380;
+  color:#a1bfff;
+}
+
+.card{
+  background-color: #1C3D59;
+  color: #a1bfff;
+}
+
+.btn{
+  background-color:#a1bfff;
+  color: #1C3D59;
+  transition-duration:0.4s;
+}
+.btn:hover{
+  background-color: #738bbf;
+}
+
+.nav-link{
+  color:#a1bfff;
+  transition-duration: 0.4s;
+}
+
+.nav-link:hover{
+  color:#a1bfff;
+}
+
+a{
+  color:#a1bfff;
+  transition-duration: 0.4s;
+}
+
+a:hover{
+  color:#a1bfff;
+}
+
+.dropdown-menu{
+  background-color: #a1bfff;
+  color:#1C3D59;
+}
+
+.pricing-header p-3 pb-md-4 mx-auto text-center{
+  color:#a1bfff;
+}
+
+.th{
+  color: #a1bfff;
+}
