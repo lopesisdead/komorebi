@@ -1,11 +1,11 @@
 {
-    "name": "thedanger52/komorebi-heroku",
+    "name": "lopesisdead/komorebi-heroku",
     "description": "site de assinatura de jogos eletrônicos",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Lopes",
-            "email": "mr.wazze@gmail.com"
+            "name": "lopesisdead",
+            "email": ""
         }
     ],
     "require": {}
